@@ -64,3 +64,9 @@ for value in "${submodules[@]}"
 do
     commit_all "${value}" "${commit_message}"
 done
+
+# push all changes
+for value in "${submodules[@]}"
+do
+    push_all "${value}"
+done
