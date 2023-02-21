@@ -1,0 +1,18 @@
+[submodule "modules/stoej_core"]
+	path = modules/stoej_core
+	url = https://github.com/Stoejmaskiner/stoej_core
+[submodule "modules/stoej_dsp"]
+	path = modules/stoej_dsp
+	url = https://github.com/Stoejmaskiner/stoej_dsp
+[submodule "modules/stoej_gui"]
+	path = modules/stoej_gui
+	url = https://github.com/Stoejmaskiner/stoej_gui
+[submodule "libs/stoej_assets"]
+	path = libs/stoej_assets
+	url = https://github.com/Stoejmaskiner/stoej_assets
+[submodule "plugins/fp000_texture"]
+	path = plugins/fp000_texture
+	url = https://github.com/Stoejmaskiner/fp000_texture
+[submodule "plugins/fp001_vibe_machine"]
+	path = plugins/fp001_vibe_machine
+	url = https://github.com/Stoejmaskiner/fp001_vibe_machine
