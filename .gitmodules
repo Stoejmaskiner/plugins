@@ -16,3 +16,6 @@
 [submodule "plugins/fp001_vibe_machine"]
 	path = plugins/fp001_vibe_machine
 	url = https://github.com/Stoejmaskiner/fp001_vibe_machine
+[submodule "libs/JUCE"]
+	path = libs/JUCE
+	url = https://github.com/juce-framework/JUCE
