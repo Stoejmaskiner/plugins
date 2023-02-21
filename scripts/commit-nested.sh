@@ -40,6 +40,13 @@ commit_all() (
     sleep 1
 )
 
+push_all() (
+    cd "${1}"
+    git push
+    echo "pushed ${1}"
+    sleep 1
+)
+
 # make sure no heads are in detached state
 for value in "${submodules[@]}"
 do
